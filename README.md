@@ -1,5 +1,5 @@
 <h1>👋 Hello World! I'm MerlinTheWhiz 🧙‍♂️</h1>
-<h4 align="left">Welcome to my GitHub profile! I'm a passionate developer with interests spanning Full-Stack Development, Artificial Intelligence, and Firmware Engineering. I thrive on exploring new frameworks, tools, and programming languages to expand my skill set and tackle exciting challenges.</h4>
+<h3 align="left">Welcome to my GitHub profile! I'm a passionate developer with interests spanning Full-Stack Development, Artificial Intelligence, and Firmware Engineering. I thrive on exploring new frameworks, tools, and programming languages to expand my skill set and tackle exciting challenges.</h3>
 
 ###
 
