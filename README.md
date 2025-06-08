@@ -32,23 +32,8 @@ Welcome to my GitHub! I'm a passionate developer exploring Full-Stack Developmen
 ---
 
 ### 🛠️ Technologies & Tools
-<div align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" /> <!-- MERN Stack --> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" /> <!-- Other Tools --> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" /> 
-</div>
+
+  ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/-Express-indigo?style=for-the-badge&logo=express&logoColor=white) ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-blue?style=for-the-badge&logo=react-native&logoColor=white) ![Python](https://img.shields.io/badge/-Python-red?style=for-the-badge&logo=python&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-violet?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-purple?style=for-the-badge&logo=jest&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge&logo=tailwind&logoColor=white) ![Git](https://img.shields.io/badge/-Git-red?style=for-the-badge&logo=git&logoColor=black) ![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-yellow?style=for-the-badge&logo=linux&logoColor=black) ![VsCode](https://img.shields.io/badge/-VsCode-blue?style=for-the-badge&logo=vscode&logoColor=black)
 
 ---
 
