@@ -9,13 +9,13 @@ Welcome to my GitHub! I'm a passionate developer exploring Full-Stack Developmen
 
 ### 🌐 Connect With Me
 <div align="left">
-  <a href="https://linkedin.com/in/michael-anokam-3a0773293" target="_blank">
+  <a href="https://linkedin.com/in/michael-anokam-3a0773293">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/michael_anokam" target="_blank">
+  <a href="https://x.com/michael_anokam">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discordapp.com/users/1010640810695479309">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
 </div>
