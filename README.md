@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Passionate Technologist</h3>
 
 <p align="center">
-Welcome to my GitHub! I'm a passionate developer exploring Full-Stack Development, Cybersecurity, and Firmware Engineering. I enjoy building projects, learning new technologies, and solving real-world problems through code.
+Welcome to my GitHub! I'm a passionate developer exploring Full-Stack Development, Cybersecurity, and Passionate Technologist. I enjoy building projects, learning new technologies, and solving real-world problems through code.
 </p>
 
 ---
