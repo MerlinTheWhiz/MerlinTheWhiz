@@ -58,7 +58,7 @@ Welcome to my GitHub! I'm a passionate developer exploring Full-Stack Developmen
 ### 🤝 Let's Collaborate
 
 I'm always open to working on new projects, sharing ideas, or just geeking out over tech.  
-Feel free to [reach out via email](mailto:toei.pattarapong@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN).
+Feel free to [reach out via email](mailto:toei.pattarapong@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/michael-anokam-3a0773293).
 
 ---
 
