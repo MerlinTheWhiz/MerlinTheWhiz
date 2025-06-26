@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate developer exploring Full-Stack Developmen
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Me 
 <div align="left">
   <a href="https://linkedin.com/in/michael-anokam-3a0773293">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
