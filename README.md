@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a passionate developer exploring Full-Stack Developmen
 
 - [**Password Manager**](https://github.com/MerlinTheWhiz/password-manager): Securely store and manage passwords using Python and CustomTkinter.
 - [**Movie App**](https://github.com/MerlinTheWhiz/movie-app): A React-based movie app using TMDb API to browse and search trending films, allowing users to favourite their interest.
-- [**Blog App**](https://github.com/MerlinTheWhiz/Whizlog-Blog-app-): A full-stack blog app for creating, reading, and managing posts with ease.
+- [**Blog App**](https://github.com/MerlinTheWhiz/Whizlog-Blog-app-): A full-stack blog app for creating, reading, and managing posts with ease (still working on the backend).
 - [**Quiz App**](https://github.com/MerlinTheWhiz/quiz-app): A timed quiz app with score tracking and difficulty levels.
 
 ---
