@@ -2,14 +2,18 @@
   <img width="1000" height="300" alt="Untitled design (14)" src="https://github.com/user-attachments/assets/ee15b17e-e54b-42fc-9f58-cf97bcd8a1aa" />
 </p>
 
-<h1 align="center">👋 
-Hi, I'm MerlinTheWhiz 🧙‍♂️</h1>
-<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Passionate Technologist</h3>
+<h1 align="center">Hi 👋, I'm MerlinTheWhiz</h1>
+<h3 align="center">Full-Stack Developer | Cybersecurity & Web3 Enthusiast | OSS Contributor</h3>
 
 <p align="center">
-
-Welcome to my GitHub! I'm a passionate developer exploring Full-Stack Development, Cybersecurity, and Passionate Technologist. I enjoy building projects, learning new technologies, and solving real-world problems through code.
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Kanit&size=30&pause=1000&speed=45&color=008AFA&background=FAFAFA00&center=true&width=700&lines=Your+Next+Favourite+Developer;MerlinTheWhiz+at+your+Service+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Design+Meets+Functionality;Your+Vision,+My+Craft;From+Idea+to+Product;Let%E2%80%99s+Build+Something+Legendary"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
+
 
 ---
 
@@ -24,6 +28,12 @@ Welcome to my GitHub! I'm a passionate developer exploring Full-Stack Developmen
   <a href="https://discordapp.com/users/1010640810695479309">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MerlinTheWhiz/MerlinTheWhiz/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -55,12 +65,6 @@ Welcome to my GitHub! I'm a passionate developer exploring Full-Stack Developmen
 
 ---
 
-### 🐍 GitHub Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MerlinTheWhiz/MerlinTheWhiz/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ### 🤝 Let's Collaborate
 
