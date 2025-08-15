@@ -56,12 +56,17 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MerlinTheWhiz&show_icons=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MerlinTheWhiz&layout=compact&theme=dracula" height="150" />
-  <img src="https://streak-stats.demolab.com?user=MerlinTheWhiz&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MerlinTheWhiz&theme=dracula" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MerlinTheWhiz&radius=16&theme=react&area=true" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MerlinTheWhiz&show_icons=true&count_private=true&bg_color=0d1117&title_color=00aaff&text_color=ffffff&icon_color=00aaff" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MerlinTheWhiz&layout=compact&bg_color=0d1117&title_color=00aaff&text_color=ffffff&icon_color=00aaff" height="150" />
+  
+  <img src="https://streak-stats.demolab.com?user=MerlinTheWhiz&background=0d1117&ring=00aaff&fire=00aaff&currStreakLabel=00aaff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00aaff&dates=ffffff" height="150" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=MerlinTheWhiz&theme=darkhub&title=00aaff&margin-w=15" height="150" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MerlinTheWhiz&radius=16&bg_color=0d1117&color=00aaff&line=00aaff&point=ffffff&area=true&hide_border=true" height="300" />
 </div>
+
 
 ---
 
