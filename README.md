@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="2048" height="937" alt="X_banner" src="https://github.com/user-attachments/assets/7f104e52-3c88-4e79-9fe0-09c8ddbf25f9" />
+  <img width="1000" height="300" alt="X_Banner" src="https://github.com/user-attachments/assets/49f065d4-88f7-4bd8-99f8-fc1294e204b3" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm MerlinTheWhiz</h1>
