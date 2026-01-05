@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="1000" height="300" alt="Untitled design (14)" src="https://github.com/user-attachments/assets/ee15b17e-e54b-42fc-9f58-cf97bcd8a1aa" />
+  <img width="2048" height="937" alt="X_banner" src="https://github.com/user-attachments/assets/7f104e52-3c88-4e79-9fe0-09c8ddbf25f9" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm MerlinTheWhiz</h1>
 <h3 align="center">Full-Stack Developer | Cybersecurity & Web3 Enthusiast | OSS Contributor</h3>
