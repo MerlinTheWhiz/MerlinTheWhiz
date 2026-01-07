@@ -42,11 +42,8 @@
 
 ### 🚀 Featured Projects
 
-- [**Password Manager**](https://github.com/MerlinTheWhiz/password-manager): Securely store and manage passwords using Python and CustomTkinter.
-- [**Movie App**](https://github.com/MerlinTheWhiz/movie-app): A React-based movie app using TMDb API to browse and search trending films, allowing users to favourite their interest.
-- [**Blog App**](https://github.com/MerlinTheWhiz/Whizlog-Blog-app-): A full-stack blog app for creating, reading, and managing posts with ease (still working on the backend).
-- [**User auth with Supabase**](https://github.com/MerlinTheWhiz/user-auth-with-supabase): A practical lesson on user authentication with Supabse, ReactJs and TailwindCSS.
-- [**Quiz App**](https://github.com/MerlinTheWhiz/quiz-app): A timed quiz app with score tracking and difficulty levels.
+- [**Mediaxis**](https://mediaxis-blue.vercel.app): Hospital Management System using React, Django and Postgresql.
+- [**PassLock**](https://github.com/MerlinTheWhiz/password-manager): Securely store and manage passwords using Python and CustomTkinter.
 
 ---
 
