@@ -73,7 +73,7 @@
 ### 🤝 Let's Collaborate
 
 I'm always open to working on new projects, sharing ideas, or just geeking out over tech.  
-Feel free to [reach out via email](mailto:toei.pattarapong@gmail.com) or [connect on LinkedIn](https://linkedin.com/in/michael-anokam-3a0773293).
+Feel free to [reach out via email](mailto:toei.pattarapong@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/michaelanokamcodes/).
 
 ---
 
