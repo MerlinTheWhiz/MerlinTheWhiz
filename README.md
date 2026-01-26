@@ -40,10 +40,31 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Projects
 
-- [**Mediaxis**](https://mediaxis-blue.vercel.app): Hospital Management System using React, Django and Postgresql.
-- [**PassLock**](https://github.com/MerlinTheWhiz/password-manager): Securely store and manage passwords using Python and CustomTkinter.
+Here are some of my recent projects. Click the links to explore the code or see a live demo!
+
+### Project 1: **Awesome App**
+![Project 1 Screenshot](https://via.placeholder.com/300x150)  
+**Description:** A short, catchy description of what this project does.  
+**Tech Stack:** `React` `Node.js` `TailwindCSS`  
+[🔗 GitHub](https://github.com/yourusername/project1) | [🌐 Live Demo](https://project1-demo.com)
+
+---
+
+### Project 2: **Cool Dashboard**
+![Project 2 Screenshot](https://via.placeholder.com/300x150)  
+**Description:** Visualizes data in a dynamic dashboard with charts and filters.  
+**Tech Stack:** `Python` `FastAPI` `Plotly`  
+[🔗 GitHub](https://github.com/yourusername/project2) | [🌐 Live Demo](https://project2-demo.com)
+
+---
+
+### Project 3: **Neat API**
+![Project 3 Screenshot](https://via.placeholder.com/300x150)  
+**Description:** A REST API for managing user content efficiently.  
+**Tech Stack:** `Node.js` `Express` `MongoDB`  
+[🔗 GitHub](https://github.com/yourusername/project3) | [🌐 Live Demo](https://project3-demo.com)
 
 ---
 
