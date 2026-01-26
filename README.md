@@ -42,29 +42,39 @@
 
 ## 🚀 Projects
 
-Here are some of my recent projects. Click the links to explore the code or see a live demo!
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-### Project 1: **Awesome App**
-![Project 1 Screenshot](https://via.placeholder.com/300x150)  
-**Description:** A short, catchy description of what this project does.  
-**Tech Stack:** `React` `Node.js` `TailwindCSS`  
-[🔗 GitHub](https://github.com/yourusername/project1) | [🌐 Live Demo](https://project1-demo.com)
+  <!-- Project Card 1 -->
+  <div style="flex: 1 1 300px; max-width: 450px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://via.placeholder.com/450x200" alt="Project 1 Screenshot" style="width: 100%; height: auto;">
+    <div style="padding: 15px;">
+      <h3>Project One</h3>
+      <p>A short, catchy description of what this project does.</p>
+      <p><strong>Tech Stack:</strong> <code>React</code> <code>Node.js</code> <code>TailwindCSS</code></p>
+      <p>
+        <a href="https://github.com/yourusername/project1">🔗 GitHub</a> | 
+        <a href="https://project1-demo.com">🌐 Live Demo</a>
+      </p>
+    </div>
+  </div>
 
----
+  <!-- Project Card 2 -->
+  <div style="flex: 1 1 300px; max-width: 450px; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <img src="https://via.placeholder.com/450x200" alt="Project 2 Screenshot" style="width: 100%; height: auto;">
+    <div style="padding: 15px;">
+      <h3>Project Two</h3>
+      <p>A short, catchy description of what this project does.</p>
+      <p><strong>Tech Stack:</strong> <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
+      <p>
+        <a href="https://github.com/yourusername/project2">🔗 GitHub</a> | 
+        <a href="https://project2-demo.com">🌐 Live Demo</a>
+      </p>
+    </div>
+  </div>
 
-### Project 2: **Cool Dashboard**
-![Project 2 Screenshot](https://via.placeholder.com/300x150)  
-**Description:** Visualizes data in a dynamic dashboard with charts and filters.  
-**Tech Stack:** `Python` `FastAPI` `Plotly`  
-[🔗 GitHub](https://github.com/yourusername/project2) | [🌐 Live Demo](https://project2-demo.com)
+  <!-- Add more project cards here in the same structure -->
 
----
-
-### Project 3: **Neat API**
-![Project 3 Screenshot](https://via.placeholder.com/300x150)  
-**Description:** A REST API for managing user content efficiently.  
-**Tech Stack:** `Node.js` `Express` `MongoDB`  
-[🔗 GitHub](https://github.com/yourusername/project3) | [🌐 Live Demo](https://project3-demo.com)
+</div>
 
 ---
 
