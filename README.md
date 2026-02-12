@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm MerlinTheWhiz</h1>
-<h3 align="center">Software Engineer | Cybersecurity & Web3 Enthusiast | OSS Contributor</h3>
+<h3 align="center">Software Engineer | Cybersecurity Enthusiast | Web3 Explorer | OSS Contributor</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
