@@ -73,7 +73,7 @@ Below are the current personal projects I'm working on. You can visit my repo li
      <!-- Cleanspark Card -->
     <td align="center" valign="top" width="50%" style="padding:10px; border:1px solid #ddd; border-radius:10px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
       <img width="1902" height="925" alt="17715133563214991388483006908119" src="https://github.com/user-attachments/assets/afa0cabd-058e-43f9-9499-b5d790a1660f" /><br> 
-      <b><a href="https://cleanspark.vercel.app">Cleanspark</a></b><br>
+      <b><a href="https://www.cleansparktechnologies.com/">Cleanspark</a></b><br>
       A modern web platform focused on clean energy solutions and sustainability innovation.(BETA)
     </td>
   </tr>
