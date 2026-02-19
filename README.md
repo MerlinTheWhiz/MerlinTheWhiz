@@ -48,13 +48,13 @@ Below are the current personal projects I'm working on. You can visit my repo li
     <td align="center" valign="top" width="50%" style="padding:10px; border:1px solid #ddd; border-radius:10px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
       <img width="1903" height="913" alt="Screenshot From 2026-01-15 21-12-19" src="https://github.com/user-attachments/assets/37a4fa37-6b18-430c-828a-7c4825e91419" /><br>
       <b><a href="https://mediaxis-blue.vercel.app">Mediaxis</a></b><br>
-      Hospital Management System using React, Django, and PostgreSQL.
+      Hospital Management System using React, Django, and PostgreSQL. (WIP)
     </td>
     <!-- Mediaxis Card -->
     <td align="center" valign="top" width="50%" style="padding:10px; border:1px solid #ddd; border-radius:10px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
       <img width="1903" height="913" alt="Screenshot From 2026-01-15 21-20-14" src="https://github.com/user-attachments/assets/257f5808-574b-4f6a-ac31-d32f905101be" /><br>
       <b><a href="https://michaelanokam.vercel.app/">Portfolio</a></b><br>
-      My personal portfolio website built with NextJs and Typescript.
+      My personal portfolio website built with NextJs and Typescript. (WIP)
     </td>
     <!-- <td align="center" valign="top" width="50%" style="padding:10px; border:1px solid #ddd; border-radius:10px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
       <img width="1903" height="913" alt="Screenshot From 2026-01-15 21-20-14" src="https://github.com/user-attachments/assets/257f5808-574b-4f6a-ac31-d32f905101be" /><br>
@@ -62,6 +62,22 @@ Below are the current personal projects I'm working on. You can visit my repo li
       Securely store and manage passwords using Python and CustomTkinter.
     </td>  -->
   </tr>
+
+  <tr>
+    <!-- Blackfrica Card -->
+    <td align="center" valign="top" width="50%" style="padding:10px; border:1px solid #ddd; border-radius:10px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+      <img width="1920" height="916" alt="17715134891598056632817992872693" src="https://github.com/user-attachments/assets/988a2ae3-7177-4dc2-b5d7-38d49834d8fe" /><br>
+      <b><a href="https://blackfrica.vercel.app">Blackfrica</a></b><br>
+      Web3 platform celebrating African digital culture, built with Next.js, Framer motion and TailwindCSS. (WIP)
+    </td>
+     <!-- Cleanspark Card -->
+    <td align="center" valign="top" width="50%" style="padding:10px; border:1px solid #ddd; border-radius:10px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+      <img width="1902" height="925" alt="17715133563214991388483006908119" src="https://github.com/user-attachments/assets/afa0cabd-058e-43f9-9499-b5d790a1660f" /><br> 
+      <b><a href="https://cleanspark.vercel.app">Cleanspark</a></b><br>
+      A modern web platform focused on clean energy solutions and sustainability innovation.(BETA)
+    </td>
+  </tr>
+</table>
 </table>
 
 
