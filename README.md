@@ -50,9 +50,10 @@ Below are the current personal projects I'm working on. You can visit my repo li
       <b><a href="https://mediaxis-blue.vercel.app">Mediaxis</a></b><br>
       Hospital Management System using React, Django, and PostgreSQL. (WIP)
     </td>
-    <!-- Mediaxis Card -->
+    <!-- Portfolio Card -->
     <td align="center" valign="top" width="50%" style="padding:10px; border:1px solid #ddd; border-radius:10px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
-      <img width="1903" height="913" alt="Screenshot From 2026-01-15 21-20-14" src="https://github.com/user-attachments/assets/257f5808-574b-4f6a-ac31-d32f905101be" /><br>
+      <img width="1920" height="926" alt="image" src="https://github.com/user-attachments/assets/01cbcacc-e940-4f10-8125-49374844c966" />
+<br>
       <b><a href="https://michaelanokam.vercel.app/">Portfolio</a></b><br>
       My personal portfolio website built with NextJs and Typescript. (WIP)
     </td>
