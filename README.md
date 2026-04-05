@@ -109,7 +109,7 @@ Below are the current personal projects I'm working on. You can visit my repo li
 
 ### 🤝 Let's Collaborate
 
-I'm always open to working on new projects, sharing ideas, or just geeking out over tech.  
+I'm always open to working on new projects, sharing ideas, or just geeking out over tech :).  
 Feel free to [reach out via email](mailto:toei.pattarapong@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/michaelanokamcodes/).
 
 ---
