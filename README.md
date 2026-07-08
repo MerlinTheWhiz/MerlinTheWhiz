@@ -96,7 +96,7 @@ Below are the current personal projects I'm working on. You can visit my repo li
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MerlinTheWhiz&layout=compact&bg_color=0d1117&title_color=00aaff&text_color=ffffff" />
   
-  <img src="https://streak-stats.demolab.com?user=MerlinTheWhiz&background=0d1117&ring=00aaff&fire=00aaff&currStreakLabel=00aaff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00aaff&dates=ffffff" height="150" />
+  <img src="https://github-readme-streak-stats-rho-ten.vercel.app?user=MerlinTheWhiz&background=0d1117&ring=00aaff&fire=00aaff&currStreakLabel=00aaff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00aaff&dates=ffffff" height="150" />
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MerlinTheWhiz&radius=16&bg_color=0d1117&color=00aaff&line=00aaff&point=ffffff&area=true&hide_border=true" height="300" />
 </div>
